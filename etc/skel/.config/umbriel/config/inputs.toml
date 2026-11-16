@@ -1,5 +1,5 @@
 # `libinput` devices settings
-# Coulde be per-device, or general
+# Can be per-device, or general
 # Follows https://docs.noctalia.dev/umbriel/input/
 
 [input]
