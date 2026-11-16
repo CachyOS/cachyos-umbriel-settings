@@ -1,6 +1,6 @@
 # Compositor basics
 # You can follow https://docs.noctalia.dev/umbriel/configuration/
-# But here is mostly defaults 
+# These rules are mostly defaults
 
 [general]
 mod_key = "Super"
@@ -12,4 +12,3 @@ show_cheatsheet = false
 focus_on_activate = false
 attach_modal_dialogs = true
 honor_restored_maximize = false
-

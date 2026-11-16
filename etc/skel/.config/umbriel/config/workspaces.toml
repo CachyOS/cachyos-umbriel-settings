@@ -1,5 +1,5 @@
 # Workspaces & Rules
-# WS rules could be declared via [[workspace]] directive
+# WS rules can be declared via the [[workspace]] directive
 # Learn more - https://docs.noctalia.dev/umbriel/workspaces/?section=workspace-rules#workspace-rules
 
 [workspaces]
