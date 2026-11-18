@@ -12,7 +12,7 @@ umbriel xdg-desktop-portal-umbriel
 
 ## Reposotiry tree
 
-### Path [`.config/umbriel/](./etc/skel/.config/umbriel/):
+### Path [`.config/umbriel/`](./etc/skel/.config/umbriel/):
 
 in `config.toml` you can find all `includes` from directory `config/`
 
